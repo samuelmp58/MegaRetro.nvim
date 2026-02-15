@@ -11,7 +11,7 @@ local blue_const    = "#55bbff"
 vim.cmd("highlight clear")
 vim.cmd("syntax reset")
 vim.o.background = "dark"
-vim.g.colors_name = "retro_phosphor"
+vim.g.colors_name = "mega_retro_phosphor"
 
 local highlights = {
   -- Sintaxe

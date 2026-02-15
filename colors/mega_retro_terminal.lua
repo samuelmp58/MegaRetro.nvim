@@ -14,7 +14,7 @@ local green_border   = "#006600"
 vim.cmd("highlight clear")
 vim.cmd("syntax reset")
 vim.o.background = "dark"
-vim.g.colors_name = "retro_terminal"
+vim.g.colors_name = "mega_retro_terminal"
 
 
 local highlights = {

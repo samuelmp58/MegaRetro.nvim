@@ -17,7 +17,7 @@ local verde_const    = "#55dd55"
 vim.cmd("highlight clear")
 vim.cmd("syntax reset")
 vim.o.background = "dark"
-vim.g.colors_name = "clear_dawn"
+vim.g.colors_name = "mega_cleardawn"
 
 local highlights = {
   -- Sintaxe

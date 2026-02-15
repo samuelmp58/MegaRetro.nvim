@@ -11,7 +11,7 @@ local amber_const   = "#ffcc77"
 vim.cmd("highlight clear")
 vim.cmd("syntax reset")
 vim.o.background = "dark"
-vim.g.colors_name = "retro_amber"
+vim.g.colors_name = "mega_retro_amber"
 
 local highlights = {
   -- Sintaxe
